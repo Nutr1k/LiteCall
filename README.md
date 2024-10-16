@@ -9,7 +9,7 @@
 
 
 - [Описание](#Описание)
-- [Серверная часть LiteCall](#Серверная-часть-LiteCall "Code-Nostra")
+- [Серверная часть LiteCall](#Серверная-часть-LiteCall "Nutr1k")
 - [Клиентская часть LiteCall](#Клиентская-часть-LiteCall "Htomsik")
 - [Пример работы](#Пример-работы)
 - [Возможности приложения](#Что-может-делать-приложение?)
@@ -43,15 +43,15 @@
 
 ### __Окно авторизации__
 
-![Project Image](https://github.com/Code-Nostra/LiteCall-Servers/blob/master/ReadmeAssets/Login.png)
+![Project Image](https://github.com/Nutr1k/LiteCall-Servers/blob/master/ReadmeAssets/Login.png)
 
 ### __Окно подключения к серверу__
 
-![Project Image](https://github.com/Code-Nostra/LiteCall-Servers/blob/master/ReadmeAssets/Main.png)
+![Project Image](https://github.com/Nutr1k/LiteCall-Servers/blob/master/ReadmeAssets/Main.png)
 
 ### __Страница сервера__
 
-![Project Image](https://github.com/Code-Nostra/LiteCall-Servers/blob/master/ReadmeAssets/ServerRoom.png)
+![Project Image](https://github.com/Nutr1k/LiteCall-Servers/blob/master/ReadmeAssets/ServerRoom.png)
 
 ### __Диаграмма классов клиента__
 
@@ -61,7 +61,7 @@
 
 ### __Окно сервера__
 
-![Project Image](https://github.com/Code-Nostra/LiteCall-Servers/blob/master/ReadmeAssets/ServerConsol.png)
+![Project Image](https://github.com/Nutr1k/LiteCall-Servers/blob/master/ReadmeAssets/ServerConsol.png)
 
 #### Технологии
 
@@ -101,7 +101,7 @@
 Серверная часть чата реализована на ASP.NET Core SignalR, т.к. по сравнению с ASP.NET signalr он поддерживает
 потоковую передачу данных и более новее.
 
-**Задачи которые реализованы Сервером чата([SignalRServer](https://github.com/Code-Nostra/LiteCall-Servers/tree/master/SignalRServer)):**
+**Задачи которые реализованы Сервером чата([SignalRServer](https://github.com/Nutr1k/LiteCall-Servers/tree/master/SignalRServer)):**
 - Валидация JWT
 - Текстовый групповой чат
 - Голосовой чат(стабильная работа с 2-мя пользователями)
@@ -114,7 +114,7 @@
 
 ****
 
-**Задачи которые реализованы Сервером Авторизации([ServerAuthorization](https://github.com/Code-Nostra/LiteCall-Servers/tree/master/ServerAuthorization)):**
+**Задачи которые реализованы Сервером Авторизации([ServerAuthorization](https://github.com/Nutr1k/LiteCall-Servers/tree/master/ServerAuthorization)):**
 - Генерация JWT
 - Шифрование JWT токена с помощью RSA256
 - Регистрация пользователей
@@ -131,7 +131,7 @@
 
 В полезной нагрузке расположена информация об имени пользователя,его роли, времени действия токена.
 <br>
-![Project Image](https://github.com/Code-Nostra/LiteCall-Servers/blob/master/ReadmeAssets/JWT.png)
+![Project Image](https://github.com/Nutr1k/LiteCall-Servers/blob/master/ReadmeAssets/JWT.png)
 
 </details>
 
