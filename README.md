@@ -138,7 +138,7 @@
 ## __Клиентская часть LiteCall__
 
 ## __Пример работы__
-[![Костя](https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig))
+[![Костя](https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
 ## __Установка__
 
 [Ссылка на последнюю версию установщика WCF клиента]() 
