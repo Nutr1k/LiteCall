@@ -45,7 +45,8 @@ namespace AuthorizationServ
 
         public void ConfigureServices(IServiceCollection services)
         {
-            IdentityModelEventSource.ShowPII = true;
+			Console.WriteLine("asdasdasdasdasdasdas");
+			IdentityModelEventSource.ShowPII = true;
             
             services.AddEntityFrameworkSqlite().AddDbContext<ServerAuthDbContext>();
 			services.AddScoped<IUnitOfWorkAuth, UnitOfWorkAuth>();
