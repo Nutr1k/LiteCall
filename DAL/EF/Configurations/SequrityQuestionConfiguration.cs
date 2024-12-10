@@ -17,7 +17,6 @@ namespace DAL.EF.Configurations
 		public SequrityQuestionConfiguration(params string[] sequrityQuestions) 
 		{
 			_questions = sequrityQuestions.ToList();
-			
 		}
 		public void Configure(EntityTypeBuilder<SequrityQuestion> builder)
 		{

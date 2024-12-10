@@ -34,7 +34,11 @@ namespace DAL.EF
 			if (!File.Exists(Path.Combine(AppContext.BaseDirectory, "MainServer.db")))
 			{
 				
-				modelBuilder.ApplyConfiguration(new AccountForAdminConfiguration(new PassworSHA()));
+				string password = new PassworSHA().GeneratePassword();
+
+				modelBuilder.Entity<User>().HasData(new User { id = 1, Login = "Admin", Password = password, Role = "Admin", AnswerSecurityQ = string.Empty });
+				
+				Console.WriteLine("Login:Admin\nPassword:" + password);
 
 				//Запис в БД секретных вопросов
 				modelBuilder.ApplyConfiguration(new SequrityQuestionConfiguration(
@@ -46,9 +50,6 @@ namespace DAL.EF
 									"В каком месте встретились ваши родители?",
 									"Как звали вашего учителя в третьем классе?",
 									"В каком городе живет ваш ближайший родственник?"));
-
-
-
 			}
 		}
 

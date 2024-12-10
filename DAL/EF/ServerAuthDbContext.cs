@@ -14,6 +14,7 @@ using System.Net.Mime;
 using DAL.Entities;
 using DAL.Infrastructure;
 using DAL.EF.Configurations;
+using DAL.Security;
 
 namespace DAL.EF
 {
@@ -39,21 +40,16 @@ namespace DAL.EF
 
             if (!File.Exists(Path.Combine(AppContext.BaseDirectory, "LTdb_sqlite.db")))
             {
+                new KeyPairSetter(new KeyPairGenerator()).SetPublicPrivateKeys();
+
+				string password = new PassworSHA().GeneratePassword();
+
+				modelBuilder.Entity<User>().HasData(new User { id = 1, Login = "Admin", Password = password, Role = "Admin", AnswerSecurityQ = string.Empty });
+				Console.WriteLine("Login:Admin\nPassword:" + password);
 
 
-                new KeyConfiguration(new KeyPairGenerator()).SetPublicPrivateKeys();
-
-
-
-
-
-				modelBuilder.ApplyConfiguration(new AccountForAdminConfiguration(new PassworSHA()));
-
-                modelBuilder.ApplyConfiguration(new ServerInfoConfiguration("LiteCall", "Community Server",new UID()));
-
-               
+				modelBuilder.Entity<Server>().HasData(new Server { id = 1, Title = "LiteCall", Description = "Community Server", Ident = new UID().GenerateUid() });
 				
-                
                 modelBuilder.ApplyConfiguration(new SequrityQuestionConfiguration(
 									"Какое прозвище было у вас в детстве?" ,
 									"Как звали вашего лучшего друга детства?",
