@@ -163,6 +163,6 @@
 
 Серверная часть:
 
-[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/artemK6484)
+[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
 
 
