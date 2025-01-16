@@ -38,7 +38,8 @@
 
 ### __Окно подключения к серверу__
 
-![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/Main.png)
+![Project Image]![Main (1)](https://github.com/user-attachments/assets/df010e2a-2095-4c74-bb63-10e290f2ee3d)
+
 
 ### __Страница сервера__
 
