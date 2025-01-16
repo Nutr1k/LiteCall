@@ -68,7 +68,9 @@
 
 ### Client
 [![.Net][.Net-shield]][.Net-url]
+
 [![SignalR][SignalR-shield]][SignalR-url]
+
 [![ReactiveUI][ReactiveUI-shield]][ReactiveUI-url]
 [![Naudio][NAudio-shield]][NAudio-url]
 [![Newtonsoft][Newtonsoft-shield]][Newtonsoft-url]
