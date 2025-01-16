@@ -33,6 +33,9 @@
 
 ![Project Image](https://github.com/user-attachments/assets/06520c9b-a20e-41d1-816d-690975db1578)
 
+### __Главная страница__
+![Project Image](https://github.com/user-attachments/assets/1b767ac7-a27f-4530-8890-39aaa15c110b)
+
 ### __Окно подключения к серверу__
 
 ![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/Main.png)
