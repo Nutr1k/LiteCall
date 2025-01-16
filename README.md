@@ -52,20 +52,6 @@
 
 #### Технологии
 
-#### **WCF версия**
-- .Net
-- WPF
-- [WCF](https://docs.microsoft.com/ru-ru/dotnet/framework/wcf/whats-wcf)
-
-#### **SignalR версия**
-
-- .Net
-- WPF
-- [ASP.NET Core SignalR](https://docs.microsoft.com/ru-ru/aspnet/core/signalr/introduction?view=aspnetcore-6.0)
-
-#### Паттерн
-- MVVM
-
 ### Client
 [![.Net][.Net-shield]][.Net-url]
 [![SignalR][SignalR-shield]][SignalR-url]
