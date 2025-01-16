@@ -68,9 +68,7 @@
 
 ### Client
 [![.Net][.Net-shield]][.Net-url]
-
 [![SignalR][SignalR-shield]][SignalR-url]
-
 [![ReactiveUI][ReactiveUI-shield]][ReactiveUI-url]
 [![Naudio][NAudio-shield]][NAudio-url]
 [![Newtonsoft][Newtonsoft-shield]][Newtonsoft-url]
@@ -80,7 +78,7 @@
 [![SqlLite.Net][SqlLite-shield]][SqlLite-url]
 [![EntityFramework.Net][EntityFramework-shield]][EntityFramework-url]
 [![JwtBearer][JwtBearer-shield]][JwtBearer-url]
-- Microsoft.AspNetCore.Authentication.JwtBearer
+
 
 ### Chat-server
 [![Asp.Net][Asp.Net-shield]][Asp.Net-url]
@@ -172,8 +170,10 @@
 [.Net-shield]: https://img.shields.io/badge/.Net-090909?style=for-the-badge&logo=
 [.Net-url]: https://dotnet.microsoft.com/en-us/
 
-[Asp.Net-shield]: https://img.shields.io/badge/Asp.Net-090909?style=for-the-badge&logo=
+[Asp.Net-shield]: https://img.shields.io/badge/Asp.Net_Core-090909?style=for-the-badge&logo=
 [Asp.Net-url]: https://dotnet.microsoft.com/en-us/apps/aspnet
+
+[JwtBearer-shield]: https://img.shields.io/badge/JwtBearer-090909?style=for-the-badge&logo=
 
 [EntityFramework-shield]: https://img.shields.io/badge/EntityFramework-090909?style=for-the-badge&logo=
 [EntityFramework-url]: https://docs.microsoft.com/ru-ru/ef/
