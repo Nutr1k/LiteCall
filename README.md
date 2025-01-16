@@ -38,7 +38,8 @@
 
 ### __Окно подключения к серверу__
 
-![Project Image](https://github.com/user-attachments/assets/df010e2a-2095-4c74-bb63-10e290f2ee3d)
+![Project Image](https://github.com/user-attachments/assets/e8cc1f89-3ca1-463c-9445-51291012b44d)
+
 
 
 ### __Страница сервера__
