@@ -1,12 +1,8 @@
 # Мессенджер LiteCall
 
-
 ## __Оглавление__
 
-
 - [Описание](#Описание)
-- [Серверная часть LiteCall](#Серверная-часть-LiteCall "Nutr1k")
-- [Клиентская часть LiteCall](#Клиентская-часть-LiteCall "Htomsik")
 - [Пример работы](#Пример-работы)
 - [Возможности приложения](#Что-может-делать-приложение?)
 - [Ссылки на авторов](#Ссылки-на-авторов)
@@ -114,8 +110,6 @@
 ![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/JWT.png)
 
 </details>
-
-## __Клиентская часть LiteCall__
 
 ## __Пример работы__
 [![Костя](https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
