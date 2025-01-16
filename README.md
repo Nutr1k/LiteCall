@@ -31,7 +31,7 @@
 
 ### __Окно авторизации__
 
-![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/Login.png)
+![Project Image](![Settings](https://github.com/user-attachments/assets/06520c9b-a20e-41d1-816d-690975db1578))
 
 ### __Окно подключения к серверу__
 
