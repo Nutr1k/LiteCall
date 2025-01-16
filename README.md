@@ -45,12 +45,6 @@
 
 ![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/ServerRoom.png)
 
-### __Диаграмма классов клиента__
-
-![Project Image](https://raw.githubusercontent.com/Htomsik/LiteCall/master/ReadmeAssets/ClassDiagram1.png)
-
-
-
 ### __Окно сервера__
 
 ![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/ServerConsol.png)
@@ -67,7 +61,6 @@
 - .Net
 - WPF
 - [ASP.NET Core SignalR](https://docs.microsoft.com/ru-ru/aspnet/core/signalr/introduction?view=aspnetcore-6.0)
-
 
 #### Паттерн
 - MVVM
@@ -101,7 +94,6 @@
 - Контроль имён пользователей(уникальность имён)
 - Валидация JWT
 
-
 ****
 
 **Задачи которые реализованы Сервером Авторизации([ServerAuthorization](https://github.com/Nutr1k/LiteCall/tree/master/ServerAuthorization)):**
@@ -114,8 +106,6 @@
 <summary>Подробнее про авторизацию</summary>
 <br>
 Пароль при передаче шифруются однонаправленным алгоритмом SHA-1, целостность передачи важных данных гарантирует Json Web Token. Json Web Token зашифрован с помощью алгоритма SHA-256
-
-
 
 **Используемая JWT конструкция**
 
@@ -131,13 +121,11 @@
 [![Костя](https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
 ## __Установка__
 
-
 ---
 ## __Недобавленные возможности/баги:__
 - Невозможность подключения больше чем 2 человек в голосовой чат __[03.06.22 исправлено]__
 - Отсутствие нормального отключения пользователя от сервера __[11.03.22 исправлено]__
 - Отсутствие нормальной валидации __[10.03.22 исправлено]__
-- Отсутствие нормального тестирования
 ---
 ## __Ссылки на авторов__
 
