@@ -73,10 +73,10 @@
 - Microsoft.AspNetCore.WebUtilities
 - Microsoft.AspNetCore.SignalR.Client
 
-### Nuget пакеты сервера авторизации
+### Authentication server (also main server)
 - Entity Framework
 - Microsoft.AspNetCore.Authentication.JwtBearer
-- System.Windows.Interactivity.WPF
+[![Entity Framework][Entity Framework-shield]][Entity Framework-url]
 
 ### Nuget пакеты сервера чата
 - Microsoft.AspNetCore.Authentication.JwtBearer
