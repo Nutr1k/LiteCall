@@ -83,8 +83,7 @@
 - System.Text.Json
 
 ## __Серверная часть LiteCall__
-Серверная часть чата реализована на ASP.NET Core SignalR, т.к. по сравнению с ASP.NET signalr он поддерживает
-потоковую передачу данных и более новее.
+Серверная часть чата реализована на ASP.NET Core SignalR
 
 **Задачи которые реализованы Сервером чата([SignalRServer](https://github.com/Nutr1k/LiteCall/tree/master/SignalRServer)):**
 - Текстовый групповой чат
