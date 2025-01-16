@@ -39,7 +39,8 @@
 
 ### __Страница сервера__
 
-![Project Image](https://github.com/Nutr1k/LiteCall/blob/master/ReadmeAssets/ServerRoom.png)
+![Project Image](https://github.com/user-attachments/assets/0091bd2d-00aa-4c1a-b899-7269cec0825f)
+
 
 ### __Окно сервера__
 
