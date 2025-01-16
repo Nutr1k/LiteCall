@@ -77,7 +77,7 @@
 [![Asp.Net][Asp.Net-shield]][Asp.Net-url]
 [![SqlLite.Net][SqlLite-shield]][SqlLite-url]
 [![EntityFramework.Net][EntityFramework-shield]][EntityFramework-url]
-[![JwtBearer][JwtBearer-shield]][JwtBearer-url]
+[![JwtBearer][JwtBearer-shield]]
 
 
 ### Chat-server
