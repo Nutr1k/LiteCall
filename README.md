@@ -66,21 +66,23 @@
 #### Паттерн
 - MVVM
 
-### Nuget пакеты клиента
-- NAudio
-- System.Windows.Interactivity.WPF
-- System.Text.Json
-- Microsoft.AspNetCore.WebUtilities
-- Microsoft.AspNetCore.SignalR.Client
+### Client
+[![.Net][.Net-shield]][.Net-url]
+[![SignalR][SignalR-shield]][SignalR-url]
+[![ReactiveUI][ReactiveUI-shield]][ReactiveUI-url]
+[![Naudio][NAudio-shield]][NAudio-url]
+[![Newtonsoft][Newtonsoft-shield]][Newtonsoft-url]
 
 ### Authentication server (also main server)
-- Entity Framework
+[![Asp.Net][Asp.Net-shield]][Asp.Net-url]
+[![SqlLite.Net][SqlLite-shield]][SqlLite-url]
+[![EntityFramework.Net][EntityFramework-shield]][EntityFramework-url]
+[![JwtBearer][JwtBearer-shield]][JwtBearer-url]
 - Microsoft.AspNetCore.Authentication.JwtBearer
-[![Entity Framework][Entity Framework-shield]][Entity Framework-url]
 
-### Nuget пакеты сервера чата
-- Microsoft.AspNetCore.Authentication.JwtBearer
-- System.Text.Json
+### Chat-server
+[![Asp.Net][Asp.Net-shield]][Asp.Net-url]
+[![SignalR][SignalR-shield]][SignalR-url]
 
 ## __Серверная часть LiteCall__
 Серверная часть чата реализована на ASP.NET Core SignalR
