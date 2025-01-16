@@ -141,3 +141,42 @@
 [![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=telegram)](https://t.me/artemK6484)
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/Nutr1k/LiteCall.svg?style=for-the-badge
+[contributors-url]: https://github.com/Nutr1k/LiteCall/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/Nutr1k/LiteCall.svg?style=for-the-badge
+[forks-url]: https://github.com/Nutr1k/LiteCall/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/Nutr1k/LiteCall.svg?style=for-the-badge
+[stars-url]: https://github.com/Nutr1k/LiteCall/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/Nutr1k/LiteCall.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Nutr1k/LiteCall
+
+[license-shield]: https://img.shields.io/github/license/Nutr1k/LiteCall.svg?style=for-the-badge
+[license-url]: https://github.com/Nutr1k/LiteCall/blob/master/LICENSE.txt
+
+[NAudio-shield]: https://img.shields.io/badge/NAudio-090909?style=for-the-badge&logo=
+[NAudio-url]: https://github.com/naudio/NAudio
+
+[ReactiveUI-shield]: https://img.shields.io/badge/ReacctiveUI-090909?style=for-the-badge&logo=
+[ReactiveUI-url]: https://www.reactiveui.net/
+
+[Newtonsoft-shield]: https://img.shields.io/badge/Json.NET-090909?style=for-the-badge&logo=
+[Newtonsoft-url]: https://www.newtonsoft.com/json
+
+[SignalR-shield]: https://img.shields.io/badge/SignalR-090909?style=for-the-badge&logo=
+[SignalR-url]: https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/signalr?view=aspnetcore-6.0&tabs=visual-studio
+
+[.Net-shield]: https://img.shields.io/badge/.Net-090909?style=for-the-badge&logo=
+[.Net-url]: https://dotnet.microsoft.com/en-us/
+
+[Asp.Net-shield]: https://img.shields.io/badge/Asp.Net-090909?style=for-the-badge&logo=
+[Asp.Net-url]: https://dotnet.microsoft.com/en-us/apps/aspnet
+
+[EntityFramework-shield]: https://img.shields.io/badge/EntityFramework-090909?style=for-the-badge&logo=
+[EntityFramework-url]: https://docs.microsoft.com/ru-ru/ef/
+
+[SqlLite-shield]: https://img.shields.io/badge/SqlLite-090909?style=for-the-badge&logo=
+[SqlLite-url]: https://www.sqlite.org/index.html
