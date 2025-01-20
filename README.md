@@ -1,5 +1,14 @@
 # Мессенджер LiteCall
 
+
+
+
+https://github.com/user-attachments/assets/2ddecad8-f051-40cb-b1c9-8cf66e9caefc
+
+
+
+
+
 ## __Оглавление__
 
 - [Описание](#Описание)
