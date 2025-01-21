@@ -106,9 +106,16 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 
 </details>
 
-## __Пример работы__
-(https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
+
 ## __Установка__
+
+[![Release](https://img.shields.io/github/v/release/ВАШ_РЕПОЗИТОРИЙ?label=Latest%20Release)](https://github.com/Nutr1k/LiteCall/releases/tag/1.0.0)
+``` bash
+1.Установить клиент - LiteCall.exe
+2.Запустить сервера - LC-servers.exe
+3.IP для подключения по стандарту будет localhost:43891
+```
+
 
 ---
 ## __Недобавленные возможности/баги:__
