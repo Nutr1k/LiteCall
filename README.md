@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 ## __Оглавление__
 
 - [Описание](#Описание)
-
+- [Установка](#Установка)
 - [Возможности приложения](#Что-может-делать-приложение?)
 - [Ссылки на авторов](#Ссылки-на-авторов)
 
@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 </details>
 
 ## __Пример работы__
-[![Костя](https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
+(https://img.shields.io/badge/-YouTube-1C1C22?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=pfsmiTj0sig)
 ## __Установка__
 
 ---
