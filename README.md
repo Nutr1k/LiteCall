@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 2.Запустить сервера - LC-servers.exe (\LT-servers\LiteCallServer\LC-servers.exe)
 3.IP для подключения по стандарту будет localhost:43891
 ```
-[![YouTube](https://img.shields.io/badge/LiteCall-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/GtL1huin9EE)
+[![YouTube](https://img.shields.io/badge/LiteCall-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/watch?v=GtL1huin9EE)
 
 ---
 ## __Недобавленные возможности/баги:__
