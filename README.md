@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 
 ## __Установка__
 
-[![Release](https://img.shields.io/github/v/release/ВАШ_РЕПОЗИТОРИЙ?label=Latest%20Release)](https://github.com/Nutr1k/LiteCall/releases/tag/1.0.0)
+[![Release](https://img.shields.io/github/v/release/Nutr1k/LiteCall?label=Latest%20Release)](https://github.com/Nutr1k/LiteCall/releases/tag/1.0.0)
 ``` bash
 1.Установить клиент - LiteCall.exe
 2.Запустить сервера - LC-servers.exe
