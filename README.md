@@ -112,10 +112,10 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 [![Release](https://img.shields.io/github/v/release/Nutr1k/LiteCall?label=Latest%20Release)](https://github.com/Nutr1k/LiteCall/releases/tag/1.0.0)
 ``` bash
 1.Установить клиент - LiteCall.exe
-2.Запустить сервера - LC-servers.exe
+2.Запустить сервера - LC-servers.exe (\LT-servers\LiteCallServer\LC-servers.exe)
 3.IP для подключения по стандарту будет localhost:43891
 ```
-
+[![YouTube](https://img.shields.io/badge/LiteCall-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/GtL1huin9EE](https://youtu.be/GtL1huin9EE))
 
 ---
 ## __Недобавленные возможности/баги:__
@@ -124,6 +124,7 @@ https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 - Отсутствие нормальной валидации __[10.03.22 исправлено]__
 ---
 ## __Ссылки на авторов__
+
 
 Клиентская часть:
 
