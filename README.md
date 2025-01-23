@@ -1,4 +1,4 @@
-# Мессенджер LiteCall
+# VoIP-клиент
 
 https://github.com/user-attachments/assets/6d1d5c71-e55d-4d84-a3bd-b223296f5e4f
 
